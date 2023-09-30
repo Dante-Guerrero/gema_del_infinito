@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/66995340/pdf-to-text-convert-using-python-pytesseract
