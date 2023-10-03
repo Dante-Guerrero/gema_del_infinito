@@ -1,0 +1,34 @@
+27/9/23, 15:33
+
+*BCP"
+
+Telecrédito - BCP
+
+Transferencias a otros bancos locales diferidas
+
+Datos generales
+Tipo de operación: Actros bancos locales diferidas
+Número de operación: 271165350
+Fecha de proceso: 27/09/2023 02:20 PM
+Estado: Procesada
+Firmada por: MARIA ESPERANZA TORRES COY
+Enviada por: MARIA ESPERANZA TORRES COY
+Fecha de envio: 27/09/2023 02:20:14 PM
+Datos de la cuenta de cargo
+Nombre del Cliente: OROCOM SAC - RUC 20603080590
+Cuenta: 191-2575222-0-42 - OROCOM SAC
+Tipo: Corriente
+Moneda: Soles
+Datos de la cuenta de destino
+Banco: CONTINENTAL
+Importe: S/5,724.51
+Cel: 011-814-000229789940-19
+Beneficiario: GONZALES ORBEGOSO PUGA BRENDA BELINDA
+ITF: Afecta
+Documento: DNI 44041915
+Referencia: LBS
+Observaciones
+Ninguna
+
+hitps:Sfwww.telecreditobcp.comilicnp/monetary/detallOperOMTRWR..do?methodToCall=popupaindex=1 acalledByPage=consultOperations 14
+
